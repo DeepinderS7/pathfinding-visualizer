@@ -14,7 +14,7 @@ This project is an interactive **Pathfinding Visualizer** built using **React**,
 
 ### Clone the repository
 
-git clone https://github.com/yourusername/pathfinding-visualizer.git
+git clone https://github.com/DeepinderS7/pathfinding-visualizer.git
 
 ### Navigate to the directory
 
