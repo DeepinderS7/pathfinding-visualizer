@@ -3,6 +3,8 @@
 **Description**:
 This project is an interactive **Pathfinding Visualizer** built using **React**, **TypeScript**, and **Context API**. It demonstrates various pathfinding algorithms (like Dijkstra’s, A\*, and BFS) by visualizing them in real-time.
 
+https://pathfinding-visulaizer.netlify.app/
+
 ## Features
 
 - **Visualizes pathfinding algorithms**: Dijkstra's, A\*, and BFS.
